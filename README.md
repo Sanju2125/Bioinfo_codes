@@ -1,5 +1,5 @@
 
-# Research Sandbox
+# Bioinfo_Codes Sandbox
 
 A collection of small, independent experiments and scripts.
 Topics include optimization, phylogenetics, evolutionary events, and related methods.
