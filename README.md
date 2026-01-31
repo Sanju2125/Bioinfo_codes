@@ -2,15 +2,15 @@
 # Bioinfo_Codes Sandbox
 
 A collection of small, independent experiments and scripts.
-Topics include optimization, phylogenetics, evolutionary events, and related methods.
+Topics include energy optimization, phylogenetics & evolutionary events and Biopython codes.
 
-## Structure
+# Structure
 Each folder is a self-contained mini-project with its own README.
 
-## Languages
+# Languages
 - Python
 - R
 
-## Disclaimer
+# Disclaimer
 Exploratory / research code. Not all scripts are production-ready.
 
